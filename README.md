@@ -109,6 +109,11 @@ A browser-based collaborative code editor that allows multiple users to work on 
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-36BCF7?style=for-the-badge" alt="Live Demo"/>
 </a>
 
+<a href="https://github.com/VijaySingh092/Real-Time-Collaborative-Editor">
+  <img src="https://img.shields.io/badge/💻%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+</a>
+
+
 </div>
 
 ---
@@ -140,6 +145,13 @@ A modern **full-stack auction platform** built with the MERN stack, featuring se
 
 `RBAC` · `Authentication` · `Auction Logic` · `Bid Validation` · `REST APIs` · `State Management` · `Cloud Storage` · `Database Design`
 
+<div align="left">
+<a href="https://github.com/VijaySingh092/MERN-Auction-Platform">
+  <img src="https://img.shields.io/badge/💻%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+</a>
+</div>
+
+
 ---
 
 ## 🤖 AI Job Preparation Platform
@@ -161,6 +173,12 @@ An AI-powered full-stack application designed to help users prepare for technica
 ### 🛠️ Built With
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `Google Gemini AI`
+
+<div align="left">
+<a href="https://github.com/VijaySingh092/Job-Preparation-Application">
+  <img src="https://img.shields.io/badge/💻%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+</a>
+</div>
 
 ---
 
