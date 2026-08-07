@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-VijaySingh092-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vijay-singh-khetwal-8532b3403/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
