@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Vijay Khetwal**
+# 👋 Hi, I'm **Vijay Singh Khetwal**
 
 ### 🚀 Full-Stack Developer · MERN Stack · JavaScript · C++
 
