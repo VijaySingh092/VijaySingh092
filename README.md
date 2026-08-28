@@ -154,7 +154,7 @@ A modern **full-stack auction platform** built with the MERN stack, featuring se
 
 ---
 
-## 🤖 AI Job Preparation Platform
+## 🤖 PrepPilot-AI — Job Preparation Platform
 
 An AI-powered full-stack application designed to help users prepare for technical job opportunities.
 
