@@ -240,9 +240,9 @@ An AI-powered full-stack application designed to help users prepare for technica
 │                                                      │
 │   🤖 AI-Powered Applications                         │
 │                                                      │
-│   🔐 Secure Backend Systems                           │
+│   🔐 Secure Backend Systems                          │
 │                                                      │
-│   🐳 Containerized & Deployed Applications            │
+│   🐳 Containerized & Deployed Applications           │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 ```
