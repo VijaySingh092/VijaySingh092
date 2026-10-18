@@ -204,7 +204,7 @@ An AI-powered full-stack application designed to help users prepare for technica
 
 <div align="center">
 
-|   ⚙️ Backend  |     🐳 DevOps    |     ⚡ Systems     |      🤖 AI      |
+|   ⚙️ Backend  |    🐳 DevOps    |     ⚡ Systems    |      🤖 AI     |
 | :-----------: | :--------------: | :---------------: | :-------------: |
 |     Redis     |      Docker      |   System Design   |     LLM APIs    |
 |    Caching    | Cloud Deployment | Real-Time Systems | AI Applications |
