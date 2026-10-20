@@ -76,10 +76,10 @@ I enjoy working across the complete development lifecycle — from creating resp
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,python" alt="Programming languages"/>
 </p>
 
-`C++` · `JavaScript`
+`C++` · `JavaScript` .`Python`
 
 ---
 
