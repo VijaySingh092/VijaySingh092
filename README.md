@@ -56,10 +56,10 @@ I enjoy working across the complete development lifecycle — from creating resp
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,%22%20alt=%22Backend%20technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,appwrite,%22%20alt=%22Backend%20technologies"/>
 </p>
 
-`Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `MySQL` . `REST APIs` · `JWT`
+`Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `MySQL` . `Appwrite` .`REST APIs` · `JWT`
 
 ### ⚡ Real-Time & AI
 
